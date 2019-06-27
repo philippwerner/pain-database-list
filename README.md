@@ -53,3 +53,10 @@ Any contribution is welcome!
 - data modalities: 142 videos with audio
 - annotation: FLACC observer pain assessment
 
+## Infant Cry Signals Database (IIIT-S ICSD)
+- [Paper 1](https://www.isca-speech.org/archive/SLPAT_2016/pdfs/7.pdf), [Paper 2](http://ltrc.iiit.ac.in/icon2016/proceedings/icon2015/pdf/W15-5917.pdf); to get the data, ask Prof. Vinay Kumar Mittal (see mail address in papers)
+- subjects: 33 infants (age 3-24 months)
+- stimuli: immunizations (injection) and other pain causes; non-painful cry causes
+- data modalities: 693 audio cry samples
+- annotation: category annotated by doctors and parents (pain, discomfort, hunger/thirst, and three others)
+
