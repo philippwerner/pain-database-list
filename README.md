@@ -1,6 +1,6 @@
 # List of Publicly Available Pain Recognition Databases
 This is a list of pain recognition databases that are publicly available for research.
-It has been started as part of the paper "Automatic Recognition Methods Supporting Pain Assessment: A Survey" by Werner et al. (2019) to provide an overview on related databases and how to obtain them.
+It has been started as part of the paper "Automatic Recognition Methods Supporting Pain Assessment: A Survey" \[[IEEEXplore](https://www.doi.org/10.1109/TAFFC.2019.2946774) | [ResearchGate](https://www.researchgate.net/publication/336447252)\] to provide an overview on related databases and how to obtain them.
 The idea is to update this page whenever a new database is available or a database website URLs changes.
 Any contribution is welcome!
 
@@ -14,7 +14,7 @@ Any contribution is welcome!
 ## BioVid Heat Pain Database
 - [Website](http://www.iikt.ovgu.de/BioVid.html)
 - subjects: 90 healthy adults (age 20-65)
-- stimli: 14k heat pain (4 intensities × 20 repetitions × 2 parts × 90 participants); emotion elicitation, posed expression
+- stimli: 14k heat pain (4 intensities Ã— 20 repetitions Ã— 2 parts Ã— 90 participants); emotion elicitation, posed expression
 - data modalities: video of face, EDA, ECG, sEMG (trapezius muscle; corrugator and zygomaticus for part B)
 - annotation: stimulus (calibrated per person)
 
@@ -35,7 +35,7 @@ Any contribution is welcome!
 ## MIntPAIN Database
 - [Website](http://www.vap.aau.dk/mintpain-database/)
 - subjects: 20 healthy adults (age 22-42)
-- stimuli: 2k electrical pain (40 stimuli in 4 intensities × 2 trials × 20 participants)
+- stimuli: 2k electrical pain (40 stimuli in 4 intensities Ã— 2 trials Ã— 20 participants)
 - data modalities: video of face (color, depth, thermal)
 - annotation: stimulus (calibrated per person), self-report (VAS)
 
