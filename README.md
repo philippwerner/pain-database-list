@@ -22,8 +22,8 @@ Any contribution is welcome!
 - [Website](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
 - subjects: 41 healthy adults (age 18-29)
 - stimuli: 41  cold  pressor  task;  emotion  elicitation
-- data modalities:
-- annotation:
+- data modalities: video of face (color & 3D)
+- annotation: stimulus, FACS coding
 
 ## BP4D+ Database
 - [Website](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
@@ -60,3 +60,9 @@ Any contribution is welcome!
 - data modalities: 693 audio cry samples
 - annotation: category annotated by doctors and parents (pain, discomfort, hunger/thirst, and three others)
 
+## Neonatal Pain Assessment Database 1 (NPAD-1)
+- [Website](http://rpal.cse.usf.edu/project_neonatal_pain/dataset.html)
+- subjects: 6 newborns and premature neonates
+- stimuli: painful procedures (e.g., heel lancing and immunization)
+- data modalities: videos with audio, vital signs
+- annotation: pain assessment by two trained nurses with Neonatal Infant Pain Scale (NIPS); Gestational Age (GA), clinical data (e.g., the medication type/dose), birth-weight, race/ethnicity, gender, and non-pharmacological interventions (e.g., oral sucrose and the pacifier use)
