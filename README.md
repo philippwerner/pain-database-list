@@ -61,7 +61,7 @@ Any contribution is welcome!
 - annotation: category annotated by doctors and parents (pain, discomfort, hunger/thirst, and three others)
 
 ## Neonatal Pain Assessment Database 1 (NPAD-1)
-- [Website](http://rpal.cse.usf.edu/project_neonatal_pain/dataset.html)
+- [Website](http://rpal.cse.usf.edu/project_neonatal_pain/dataset.html), [Paper](https://ieeexplore.ieee.org/document/8758989)
 - subjects: 6 newborns and premature neonates
 - stimuli: painful procedures (e.g., heel lancing and immunization)
 - data modalities: videos with audio, vital signs
