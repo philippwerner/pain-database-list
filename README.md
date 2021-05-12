@@ -12,7 +12,7 @@ Any contribution is welcome!
 - annotation: self-report (VAS, sensory & affective verbal scales), observer-assessed pain intensity (OPI), affected/unaffected limb, FACS coding
 
 ## BioVid Heat Pain Database
-- [Website](http://www.iikt.ovgu.de/BioVid.html)
+- [Website](http://www.nit.ovgu.de/BioVid.html)
 - subjects: 90 healthy adults (age 20-65)
 - stimli: 14k heat pain (4 intensities × 20 repetitions × 2 parts × 90 participants); emotion elicitation, posed expression
 - data modalities: video of face, EDA, ECG, sEMG (trapezius muscle; corrugator and zygomaticus for part B)
